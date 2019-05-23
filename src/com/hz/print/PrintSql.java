@@ -7,6 +7,10 @@ public class PrintSql {
 		String[] paths = path.split(",");
 		for (int i=0;i<paths.length;i++) {
 			System.out.println(paths[i].split("/"));
+			System.out.println(paths[i].split("/"));
+			System.out.println(paths[i].split("/"));
+			System.out.println(paths[i].split("/"));
+			System.out.println(paths[i].split("/"));
 		}
 	}
 }
