@@ -12,6 +12,10 @@ public class PrintSql {
 			System.out.println(paths[i].split("/"));
 			System.out.println(paths[i].split("/"));
 			System.out.println("HelloWorld!");						
+			for(int i = 0;i<1000;i++){
+			System.out.println(i);
+			}
+		
 		}
 	}
 }
